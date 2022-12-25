@@ -288,6 +288,12 @@ footer {
     font-style: italic;
 }
 
+.smaller {
+    font-size: .8em;
+}
+
+
+
 
 /* Project pages -- standard styling */
 
